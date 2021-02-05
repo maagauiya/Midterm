@@ -1,0 +1,17 @@
+body{
+  background-color: #85f1de;
+
+}
+.History{
+  height: 700px;
+  width: 1250px;
+  margin: auto;
+}
+.font{
+  font-family: 'Big Shoulders Display', cursive;
+  font-size: 150%
+}
+.fontsforhead{
+  font-size: 30px;
+  font-family: 'Big Shoulders Display', cursive;
+}
