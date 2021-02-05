@@ -16,7 +16,9 @@
   font-family: sans-serif;
 
 }
-
+.fontofprice{
+  font-family: 'Potta One', cursive; 
+}
 .main{
   background-color: #85f1de;
   min-height: 90vh;
